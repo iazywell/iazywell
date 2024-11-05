@@ -2,10 +2,15 @@ Hello, I'm Iasmin!
 
 I'm a UX Designer and digital illustrator with 3 years of experience, passionate about creating intuitive and engaging user experiences. Currently studying Prompt Engineering to enhance my skills with AI. With experience as an SDR, I have a strong interest in digital marketing strategies and a growing knowledge in Front-End Development.
 
-![LeahXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeahXD&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true)
+| Skill            | Level                                           |
+|------------------|-------------------------------------------------|
+| HTML5            | ![Level](https://progress-bar.dev/90/?title=Expert)    |
+| CSS3             | ![Level](https://progress-bar.dev/85/?title=Advanced)  |
+| JavaScript       | ![Level](https://progress-bar.dev/80/?title=Advanced)  |
+| React            | ![Level](https://progress-bar.dev/75/?title=Intermediate) |
+| Figma            | ![Level](https://progress-bar.dev/90/?title=Expert)    |
+| GitHub           | ![Level](https://progress-bar.dev/70/?title=Intermediate) |
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeahXD&layout=compact&theme=radical)
 ⚙ Main Tools
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) - Interface design and prototyping.
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - Version control and collaboration.
