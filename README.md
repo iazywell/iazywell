@@ -2,15 +2,6 @@ Hello, I'm Iasmin!
 
 I'm a UX Designer and digital illustrator with 3 years of experience, passionate about creating intuitive and engaging user experiences. Currently studying Prompt Engineering to enhance my skills with AI. With experience as an SDR, I have a strong interest in digital marketing strategies and a growing knowledge in Front-End Development.
 
-| Skill            | Level                                           |
-|------------------|-------------------------------------------------|
-| HTML5            | ![Level](https://progress-bar.dev/90/?title=Expert)    |
-| CSS3             | ![Level](https://progress-bar.dev/85/?title=Advanced)  |
-| JavaScript       | ![Level](https://progress-bar.dev/80/?title=Advanced)  |
-| React            | ![Level](https://progress-bar.dev/75/?title=Intermediate) |
-| Figma            | ![Level](https://progress-bar.dev/90/?title=Expert)    |
-| GitHub           | ![Level](https://progress-bar.dev/70/?title=Intermediate) |
-
 ⚙ Main Tools
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) - Interface design and prototyping.
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - Version control and collaboration.
@@ -32,8 +23,17 @@ Other Tools and Skills
 - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white) - Task management.
 
 ---
+| Skill       | Proficiency                                    |
+|-------------|-----------------------------------------------|
+| HTML5       | ![90%](https://progress-bar.dev/90)           |
+| CSS3        | ![85%](https://progress-bar.dev/85)           |
+| JavaScript  | ![80%](https://progress-bar.dev/80)           |
+| React       | ![75%](https://progress-bar.dev/75)           |
+| Figma       | ![90%](https://progress-bar.dev/90)           |
+| GitHub      | ![70%](https://progress-bar.dev/70)           |
 
-### 📫 Let’s Connect!
+---
+Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=white)](https://yourportfolio.com)
