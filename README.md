@@ -23,14 +23,23 @@ Other Tools and Skills
 - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white) - Task management.
 
 ---
-| Skill       | Proficiency                                    |
-|-------------|-----------------------------------------------|
-| HTML5       | ![90%](https://progress-bar.dev/90)           |
-| CSS3        | ![85%](https://progress-bar.dev/85)           |
-| JavaScript  | ![80%](https://progress-bar.dev/80)           |
-| React       | ![75%](https://progress-bar.dev/75)           |
-| Figma       | ![90%](https://progress-bar.dev/90)           |
-| GitHub      | ![70%](https://progress-bar.dev/70)           |
+Skill Dashboard for LeahXD
+
+ GitHub Stats
+**Total Stars:** ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐  (18)
+
+---
+
+## 💻 Skill Levels
+
+| Skill       | Proficiency Level        |
+|-------------|---------------------------|
+| **HTML5**   | ██████████ 90%            |
+| **CSS3**    | █████████ 85%             |
+| **JavaScript** | ████████ 80%           |
+| **React**   | ████████ 75%              |
+| **Figma**   | ██████████ 90%            |
+| **GitHub**  | ███████ 70%               
 
 ---
 Let’s Connect!
