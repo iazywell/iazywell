@@ -1,13 +1,17 @@
 Hello, I'm Iasmin!
 
 I'm a UX Designer and digital illustrator with 3 years of experience, passionate about creating intuitive and engaging user experiences. Currently studying Prompt Engineering to enhance my skills with AI. With experience as an SDR, I have a strong interest in digital marketing strategies and a growing knowledge in Front-End Development.
-⚙️ Main Tools
 
+![LeahXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeahXD&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeahXD&layout=compact&theme=radical)
+⚙ Main Tools
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) - Interface design and prototyping.
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - Version control and collaboration.
 - ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) - Code editor.
 
-### 🌐 Front-End Technologies
+  Front-End Technologies
 
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +20,7 @@ I'm a UX Designer and digital illustrator with 3 years of experience, passionate
 
 ---
 
-### 🎨 Other Tools and Skills
+Other Tools and Skills
 
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) - Image editing and manipulation.
 - ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) - Project organization.
