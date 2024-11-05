@@ -23,14 +23,8 @@ Other Tools and Skills
 - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white) - Task management.
 
 ---
-Skill Dashboard for LeahXD
 
- GitHub Stats
-**Total Stars:** ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐  (18)
-
----
-
-## 💻 Skill Levels
+ Skill Levels
 
 | Skill       | Proficiency Level        |
 |-------------|---------------------------|
