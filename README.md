@@ -36,6 +36,8 @@ Other Tools and Skills
 | **GitHub**  | ███████ 70%               
 
 ---
+<iframe src="https://giphy.com/embed/0hv8d4HrDVI6m7w7pF" width="480" height="427" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-trippy-3d-0hv8d4HrDVI6m7w7pF">via GIPHY</a></p>
+
 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
