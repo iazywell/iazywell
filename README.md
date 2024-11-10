@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-
+<img width="100" height="100" src="https://img.icons8.com/quill/100/mind-map.png" alt="mind-map"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 _____________________________________________________________________________________
