@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/cfc96c87-e4e0-47fe-a2fd-cdcb3052f8ad)
 
 _____________________________________________________________________________________
-<img width="64" height="64" src="https://img.icons8.com/dusk/64/code.png" alt="code"/>
+<img width="100" height="100" src="https://img.icons8.com/quill/100/content.png" alt="content"/>
 <p align="left">
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
@@ -123,4 +123,4 @@ ________________________________________________________________________________
 </picture>
  
 _____________________________________________________________________________________
-![image](https://github.com/user-attachments/assets/9207e013-6dac-42ce-a2ac-0a846653457e)
+
