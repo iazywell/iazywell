@@ -127,5 +127,16 @@ ________________________________________________________________________________
  
 _____________________________________________________________________________________
 
-![image](https://github.com/user-attachments/assets/962b249d-800b-4065-b322-81ec11b81a1f)
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Animated Images</h2>
+
+<p>HTML allows moving images:</p>
+
+<img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
+
+</body>
+</html>
 
