@@ -127,16 +127,4 @@ ________________________________________________________________________________
  
 _____________________________________________________________________________________
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Animated Images</h2>
-
-<p>HTML allows moving images:</p>
-
 <img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
-
-</body>
-</html>
-
