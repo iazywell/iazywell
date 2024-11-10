@@ -1,26 +1,4 @@
-Hi, there!!
-
-<div align="center">
-  <style>
-    .gear {
-      width: 30px;
-      height: 30px;
-      border-radius: 50%;
-      position: relative;
-      border: 5px solid #333;
-      border-top: 5px solid #f39c12;
-      animation: spin 2s linear infinite;
-    }
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-  </style>
-  
-  <div class="gear"></div>
-</div>
-## Ferramentas de UX/UI Design que utilizo
-
+ᏂᎥᎥᎥ!!
 <p align="left">
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
@@ -117,4 +95,3 @@ Hi, there!!
     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
   </a>
 </p>
-
