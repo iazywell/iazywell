@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cfc96c87-e4e0-47fe-a2fd-cdcb3052f8ad)
+<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
 
 _____________________________________________________________________________________
 <img width="100" height="100" src="https://img.icons8.com/quill/100/gear.png" alt="gear"/>
@@ -127,4 +127,3 @@ ________________________________________________________________________________
  
 _____________________________________________________________________________________
 
-<img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
