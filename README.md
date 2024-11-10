@@ -1,6 +1,6 @@
 <a href="https://fontmeme.com/pt/fontes-legais/"><img src="https://fontmeme.com/permalink/241110/121fe62f226f8840e6dbd983800e6d01.png" alt="fontes-legais" border="0"></a>
 
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/code.png" alt="code"/>
+<img width="64" height="64" src="https://img.icons8.com/dusk/64/code.png" alt="code"/>
 <p align="left">
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
