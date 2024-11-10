@@ -1,4 +1,7 @@
-ᏂᎥᎥᎥ!!
+ᏂᎥ
+
+
+
 <p align="left">
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
@@ -95,3 +98,5 @@
     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
   </a>
 </p>
+
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
