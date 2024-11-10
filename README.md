@@ -1,4 +1,16 @@
-<div class="tenor-gif-embed" data-postid="13384672663063020392" data-share-method="host" data-aspect-ratio="0.748691" data-width="100%"><a href="https://tenor.com/view/roblox-script-i-just-write-thousand-line-of-codes-without-a-single-error-coding-hello-world-gif-13384672663063020392">Roblox Script GIF</a>from <a href="https://tenor.com/search/roblox-gifs">Roblox GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<body onload="init();">
+  <div id="main">
+  <div id="title">H-E-L-L-O WORLD Animation</div>
+  <div class="button" onclick="resetTransitions();">Reset Transitions</div>
+    <div class="button" onclick="startTransitions();">Start Transitions</div>
+      
+    <div class="hello" onwebkittransitionend="checkLetter();">
+      <span class="first letter offscreen">H</span><span class="letter offscreen">E</span><span class="letter offscreen">L</span><span class="letter offscreen">L</span><span class="letter offscreen">O</span>
+    </div>
+    
+    <div class="world offscreen">WORLD</div>
+  </div> <!-- end main -->
+</body>
 _____________________________________________________________________________________
 
 <img width="100" height="100" src="https://img.icons8.com/quill/100/mind-map.png" alt="mind-map"/>
