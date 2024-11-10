@@ -1,80 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
-    <link rel="stylesheet" href="../lib/style.css" />
-    <style>
-      #scene {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: #333;
-      }
-      #hello {
-        color: #def;
-        /* This text shadow will make the browser lag, but when we render into a video file, it will be 60fps smooth!!! */
-        text-shadow: 0 16px 64px black;
-        font: bold 120px Arimo, sans-serif;
-      }
-      html.is-transparent #scene {
-        background: transparent;
-      }
-    </style>
-  </head>
-  <body>
-    <!-- The scene element will be rendered to the video file. -->
-    <div id="scene">
-      <div id="hello">Hello, world!</div>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
 
-    <script>
-      const timeline = new TimelineMax()
-      timeline
-        .fromTo(
-          '#hello',
-          1,
-          { scale: 0, filter: 'blur(32px)' },
-          { scale: 1, filter: 'blur(0px)', ease: Power0.easeNone },
-        )
-        .to('#hello', 2, {
-          scale: 5,
-          opacity: 0,
-          rotation: 360,
-          textShadow: '0 16px 64px black, 0 0 128px blue',
-        })
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>my-first-website</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
 
-      // When rendering, stop the animation because we need a freeze frame.
-      const params = new URL(location).searchParams
-      if (params.get('render') != null) {
-        timeline.stop()
-      }
-      if (params.get('transparent') != null) {
-        document.documentElement.classList.add('is-transparent')
-      }
+<body>
 
-      const fps = 60
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
-      // This function tells renderer about basic information about the video.
-      function getInfo() {
-        return {
-          fps,
-          numberOfFrames: timeline.duration() * fps,
-        }
-      }
+<!-- Change this code here by copy and pasting your template on line 15 -->
+<p>Welcome to your first GitHub Pages website!</p>
 
-      // This function will be called before rendering each frame of the video.
-      function seekToFrame(frame) {
-        timeline.seek(frame / fps)
-      }
-    </script>
-  </body>
+</body>
 </html>
-
-
 _____________________________________________________________________________________
 <img width="100" height="100" src="https://img.icons8.com/quill/100/gear.png" alt="gear"/>
 <p align="left">
