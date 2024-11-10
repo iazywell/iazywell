@@ -115,3 +115,31 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+<div align="center">
+  <style>
+    .animated-line {
+      width: 100%;
+      height: 5px;
+      background-color: black;
+      position: relative;
+      overflow: hidden;
+    }
+    .animated-line::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background-color: black;
+      animation: slide 2s linear infinite;
+    }
+    @keyframes slide {
+      0% { left: -100%; }
+      50% { left: 100%; }
+      100% { left: -100%; }
+    }
+  </style>
+  
+  <div class="animated-line"></div>
+</div>
