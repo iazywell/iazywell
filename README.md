@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/cfc96c87-e4e0-47fe-a2fd-cdcb3052f8ad)
 
 _____________________________________________________________________________________
-<img width="100" height="100" src="https://img.icons8.com/quill/100/content.png" alt="content"/>
+<img width="100" height="100" src="https://img.icons8.com/quill/100/gear.png" alt="gear"/>
 <p align="left">
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
