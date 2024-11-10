@@ -1,4 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" href="../lib/style.css" />
+    <style>
+      #scene {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #333;
+      }
+      #hello {
+        color: #def;
+        /* This text shadow will make the browser lag, but when we render into a video file, it will be 60fps smooth!!! */
+        text-shadow: 0 16px 64px black;
+        font: bold 120px Arimo, sans-serif;
+      }
+      html.is-transparent #scene {
+        background: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- The scene element will be rendered to the video file. -->
+    <div id="scene">
+      <div id="hello">Hello, world!</div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
 
+    <script>
+      const timeline = new TimelineMax()
+      timeline
+        .fromTo(
+          '#hello',
+          1,
+          { scale: 0, filter: 'blur(32px)' },
+          { scale: 1, filter: 'blur(0px)', ease: Power0.easeNone },
+        )
+        .to('#hello', 2, {
+          scale: 5,
+          opacity: 0,
+          rotation: 360,
+          textShadow: '0 16px 64px black, 0 0 128px blue',
+        })
+
+      // When rendering, stop the animation because we need a freeze frame.
+      const params = new URL(location).searchParams
+      if (params.get('render') != null) {
+        timeline.stop()
+      }
+      if (params.get('transparent') != null) {
+        document.documentElement.classList.add('is-transparent')
+      }
+
+      const fps = 60
+
+      // This function tells renderer about basic information about the video.
+      function getInfo() {
+        return {
+          fps,
+          numberOfFrames: timeline.duration() * fps,
+        }
+      }
+
+      // This function will be called before rendering each frame of the video.
+      function seekToFrame(frame) {
+        timeline.seek(frame / fps)
+      }
+    </script>
+  </body>
+</html>
 
 
 _____________________________________________________________________________________
@@ -128,4 +202,3 @@ ________________________________________________________________________________
  
 _____________________________________________________________________________________
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/br99SojJZ5rlfSYset" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-goddev-code-awesome-shit-br99SojJZ5rlfSYset">via GIPHY</a></p>
