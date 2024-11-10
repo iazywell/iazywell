@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/cfc96c87-e4e0-47fe-a2fd-cdcb3052f8ad)
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVR4nO3RsQ0AIAwDQU+VmgWy/zhhAkoExZ30C9gJAAAAAAAAAAAAAADAn2r1qI8bvP4HAAAAAAAAAAAAAACAXLEBxhx+kR93xnIAAAAASUVORK5CYII=" alt="horizontal-line">
 
-
+_____________________________________________________________________________________
 <img width="64" height="64" src="https://img.icons8.com/dusk/64/code.png" alt="code"/>
 <p align="left">
   <!-- Figma -->
