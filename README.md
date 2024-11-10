@@ -1,4 +1,6 @@
-<div class="cssFont_1" style="font-family:'Quicksand', sans-serif">Hello world :)</div>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 _____________________________________________________________________________________
 
 <img width="100" height="100" src="https://img.icons8.com/quill/100/mind-map.png" alt="mind-map"/>
