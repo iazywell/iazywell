@@ -1,4 +1,4 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -19,18 +19,7 @@ Other Tools and Skills
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white) 
 
 ---
-
- Skill Levels
-
-| Skill       | Proficiency Level        |
-|-------------|---------------------------|
-| **HTML5**   | ██████████ 90%            |
-| **CSS3**    | █████████ 85%             |
-| **JavaScript** | ████████ 80%           |
-| **React**   | ████████ 75%              |
-| **Figma**   | ██████████ 90%            |
-| **GitHub**  | ███████ 70%               
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
