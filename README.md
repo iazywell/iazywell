@@ -1,10 +1,4 @@
-<body onload="init();">
-  <div id="main">
-  <div id="title">H-E-L-L-O WORLD Animation</div>
-  <div class="button" onclick="resetTransitions();">Reset Transitions</div>
-    <div class="button" onclick="startTransitions();">Start Transitions</div>
-      
-    <div class="hello" onwebkittransitionend="checkLetter();">
+ <div class="hello" onwebkittransitionend="checkLetter();">
       <span class="first letter offscreen">H</span><span class="letter offscreen">E</span><span class="letter offscreen">L</span><span class="letter offscreen">L</span><span class="letter offscreen">O</span>
     </div>
     
