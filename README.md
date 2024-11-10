@@ -98,7 +98,7 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
   </a>
 </p>
-
+_____________________________________________________________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
