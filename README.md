@@ -1,5 +1,5 @@
 
-![gif](https://github.com/user-attachments/assets/fe05eded-d52e-44a2-bbd3-455a518a3b70)
+
 
 _____________________________________________________________________________________
 <img width="100" height="100" src="https://img.icons8.com/quill/100/gear.png" alt="gear"/>
@@ -128,3 +128,4 @@ ________________________________________________________________________________
  
 _____________________________________________________________________________________
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/br99SojJZ5rlfSYset" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-goddev-code-awesome-shit-br99SojJZ5rlfSYset">via GIPHY</a></p>
