@@ -105,6 +105,7 @@ ________________________________________________________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 _____________________________________________________________________________________
 
 <img width="100" height="100" src="https://img.icons8.com/quill/100/details-popup.png" alt="details-popup"/>
