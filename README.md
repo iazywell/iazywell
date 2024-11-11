@@ -2,7 +2,7 @@
 
 _____________________________________________________________________________________
 
-<img width="32" height="32" src="https://img.icons8.com/retro/32/installing-updates.png" alt="installing-updates"/>
+[<img width="32" height="32" src="https://img.icons8.com/retro/32/installing-updates.png" alt="installing-updates"/>](https://icons8.com.br/icon/42817/info)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
