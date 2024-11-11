@@ -39,5 +39,5 @@ ________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 _____________________________________________________________________________________
-<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="400">
 <br><br>
