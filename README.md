@@ -1,7 +1,6 @@
 ### Hello World :)
-![image](https://github.com/user-attachments/assets/3baa3d85-25f2-48c3-b2b6-2eb5006c1767)
-
-____________________________________________________________________________________
+![image](https://github.com/user-attachments/assets/bc5b4f76-132a-4330-ab29-109e21513c54)
+___________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/5b4668d8-e4f1-4a26-bd24-30ca6a9964df)
 ![image](https://github.com/user-attachments/assets/fa4b6529-a999-4b55-9df6-816eb214b500)
