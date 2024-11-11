@@ -1,7 +1,7 @@
 
 
 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<img width="32" height="32" src="https://img.icons8.com/retro/32/installing-updates.png" alt="installing-updates"/>
 _____________________________________________________________________________________
 
 <img width="100" height="100" src="https://img.icons8.com/quill/100/mind-map.png" alt="mind-map"/>
