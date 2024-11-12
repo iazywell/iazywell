@@ -1,4 +1,4 @@
-# Hello, World! 
+# Hello, World! ✿
 
 I'm a FIAP scholarship student with a background in frontend development, UX/UI design, and digital illustration. Passionate about creating seamless user experiences and beautiful, functional interfaces, I bring a unique blend of technical and creative skills to every project.
 
