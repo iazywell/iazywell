@@ -1,6 +1,5 @@
 ### Hello World :)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="600">
-<iframe src="https://lottie.host/embed/d98b92c3-5267-4ed4-8dde-e01672a4f21b/wJRXc25Djf.json"></iframe>
 ___________________________________________________________________________________
 
 ##  Tools & Skills
