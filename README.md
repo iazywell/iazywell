@@ -1,3 +1,12 @@
+# Hello, World! 
+
+I'm a FIAP scholarship student with a background in frontend development, UX/UI design, and digital illustration. Passionate about creating seamless user experiences and beautiful, functional interfaces, I bring a unique blend of technical and creative skills to every project.
+
+-  **Education**: Certified in UX/UI Design, Programming, Figma for Developers, Prompt Engineering (ChatGPT), and Design Thinking
+-  **Skills**: Frontend Development (HTML, CSS, JavaScript) | Prototyping and User Testing | Digital Illustration
+-  **Interests**: Crafting intuitive user journeys and bringing ideas to life through digital art
+
+Thanks for stopping by! Feel free to explore my work, and reach out if you'd like to connect or collaborate.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
 <br><br>
