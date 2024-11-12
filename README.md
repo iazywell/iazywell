@@ -4,8 +4,37 @@
 
 ___________________________________________________________________________________
 
-![image](https://github.com/user-attachments/assets/2a0587f0-04a1-4465-af81-3aa1db474ecf) ![image](https://github.com/user-attachments/assets/e9c86f0c-e887-45ae-b1a8-3b3878c2193c) ![image](https://github.com/user-attachments/assets/2827f0f9-bc1f-4aa1-a1cb-4b15e09303c4) ![image](https://github.com/user-attachments/assets/4502294f-fdb3-45bd-87bd-e838dddc4fba) ![image](https://github.com/user-attachments/assets/d2c7eaf9-1d58-464e-8bb1-8c1d832d3d44) ![image](https://github.com/user-attachments/assets/4ace55a7-c640-4d66-9434-04800971eddb) ![image](https://github.com/user-attachments/assets/f9bef540-b7de-43a7-864f-87b3f2400b01) ![image](https://github.com/user-attachments/assets/61dc062b-8c8e-4ee6-850c-1b6bdfee88c8) ![image](https://github.com/user-attachments/assets/b4f57109-ac22-46b9-9a88-2a650c3a7ed8) ![image](https://github.com/user-attachments/assets/9542d11b-cdcb-4ae9-8018-417831058ba7) ![image](https://github.com/user-attachments/assets/92b6d711-b564-4a2e-b5ca-6d3329436e7b) ![image](https://github.com/user-attachments/assets/cbcf5146-b7b3-4017-a4c0-432d13d08223) ![image](https://github.com/user-attachments/assets/2f3c0d50-fe7b-4965-8ba4-cdc5623fa05b) ![image](https://github.com/user-attachments/assets/18280c6c-7624-4b6e-82de-4f1a4c33a5cc) ![image](https://github.com/user-attachments/assets/977c4fdc-0b77-44d0-83b0-d520a7583978) ![image](https://github.com/user-attachments/assets/0a5c66b5-6f8d-4f63-b1cd-e66a0fd2bcb7)
+##  Tools & Skills
 
+###  UX/UI Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />
+</p>
+
+###  User Experience (UX)
+<p align="left">
+  <img src="https://img.shields.io/badge/User%20Research-4682B4?style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/User%20Journey-3D9970?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/User%20Testing-FFA500?style=for-the-badge&logo=Zoom&logoColor=white" />
+</p>
+
+###  Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+###  Illustration & Graphic Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Procreate-1D1D1D?style=for-the-badge&logo=procreate&logoColor=white" />
+  <img src="https://img.shields.io/badge/CorelDRAW-47A248?style=for-the-badge&logo=coreldraw&logoColor=white" />
+</p>
 
 
 
